@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Dr. John Doe",
+    "city": "New York",
+    "gender": "Male",
+    "specialty": "General Physician"
+  },
+  {
+    "name": "Dr. Sarah Lee",
+    "city": "Los Angeles",
+    "gender": "Female",
+    "specialty": "General Physician"
+  },
+  {
+    "name": "Dr. Michael Brown",
+    "city": "Chicago",
+    "gender": "Male",
+    "specialty": "Internal Medicine"
+  },
+  {
+    "name": "Dr. Emily Davis",
+    "city": "San Francisco",
+    "gender": "Female",
+    "specialty": "General Physician"
+  },
+  {
+    "name": "Dr. William Harris",
+    "city": "Boston",
+    "gender": "Male",
+    "specialty": "General Physician"
+  },
+  {
+    "name": "Dr. Olivia Garcia",
+    "city": "New York",
+    "gender": "Female",
+    "specialty": "Internal Medicine"
+  },
+  {
+    "name": "Dr. James Wilson",
+    "city": "Chicago",
+    "gender": "Male",
+    "specialty": "General Physician"
+  },
+  {
+    "name": "Dr. Ava Martinez",
+    "city": "Los Angeles",
+    "gender": "Female",
+    "specialty": "General Physician"
+  },
+  {
+    "name": "Dr. Benjamin Thomas",
+    "city": "San Francisco",
+    "gender": "Male",
+    "specialty": "Internal Medicine"
+  },
+  {
+    "name": "Dr. Mia Anderson",
+    "city": "Boston",
+    "gender": "Female",
+    "specialty": "General Physician"
+  }
+]
